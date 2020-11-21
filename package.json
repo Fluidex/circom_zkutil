@@ -10,6 +10,7 @@
   "license": "GPL-3",
   "dependencies": {
     "circom": "0.5.23",
-    "circomlib": "0.2.4"
+    "circomlib": "0.2.4",
+    "snarkjs": "^0.3.44"
   }
 }

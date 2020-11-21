@@ -1,1 +1,11 @@
 node_modules
+
+circuit.r1cs.json
+circuit.sym
+params.bin
+proof.json
+proving_key.json
+public.json
+verification_key.json
+witness.json
+witness.wtns
